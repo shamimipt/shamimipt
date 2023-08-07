@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning PHP and Javascript<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning PHP and Javascript<br>🎯 Goals: Software Engineer<br>🎲 Fun fact: emojis</p>
 
 ###
 
